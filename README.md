@@ -1,5 +1,5 @@
 # Will-the-client-pay-or-not-after-financing
-The project evaluates credit risk analysis with key interest in Data cleaning and modelling
+The project evaluates credit risk with key interest in Data cleaning and modelling
 Files included are: 
 
 1. Data description file with feature names , their description and data types
